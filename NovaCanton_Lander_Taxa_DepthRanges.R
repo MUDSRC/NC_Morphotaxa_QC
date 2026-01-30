@@ -81,3 +81,25 @@ op_summary <- depcounts_summary  %>%
 ####
 setwd(export.dir)
 write.csv(op_summary,"LanderTaxa_Depth_QC_20260129.csv",row.names = FALSE)
+
+
+###
+usethis::use_git()
+usethis::use_git_config(
+  user.name  = "DJBSwan",
+  user.email = "denise.swanborn@uwa.edu.au"
+)
+getwd()
+gert::git_status()
+gert::git_add(".")
+gert::git_commit("Initial commit")
+gert::git_remote_list()
+gert::git_remote_add(name = "origin", url = "https://github.com/MUDSRC/NC_Morphotaxa_QC.git")
+gert::git_push(remote = "origin")
+
+
+gert::git_remote_remove("origin")
+gert::git_remote_add(name = "origin", url = "git@github.com:MUDSRC/NC_Morphotaxa_QC.git")
+gert::git_remote_list()
+gert::git_ssh_keygen()
+usethis::use_ssh_key()
