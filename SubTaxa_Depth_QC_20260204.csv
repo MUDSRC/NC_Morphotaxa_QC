@@ -1,0 +1,293 @@
+"ID","Total_Count","OpCodes_List","min_depth","max_depth","frequency"
+"Acanthephyridae.Heterogenys",2,"NC2_BK5_4600",4630,4630,1
+"Acanthephyridae.Heterogenys.sp1",18,"NC2_BK2_3800, NC3_BK2_6000, NC4_BK2_4700, NC4_BK4_4700",3791,6014,4
+"Acanthephyridae.Hymenodora.sp1",1,"NC4_BK2_4700",4734,4734,1
+"Acrocirridae",746,"NC1_BK2_6700, NC2_BK3_7400, NC3_BK2_6000, NC3_BK3_6000, NC4_BK2_4700, NC4_BK3_6900",4734,7369,6
+"Actinoscyphiidae.sp2",1,"NC2_BK5_4600",4630,4630,1
+"Actinostolidae",199,"NC1_BK2_6700, NC4_BK3_6900",6682,6974,2
+"Aeginidae",2,"NC1_BK2_6700, NC1_BK3_8000",6682,7989,2
+"Aeginidae.Aeginura",1,"NC3_BK2_6000",6014,6014,1
+"Aeginidae.sp1",1,"NC1_BK3_8000",7989,7989,1
+"Amathillopsidae.Amathillopsis",6,"NC3_BK2_6000",6014,6014,1
+"Amathillopsidae.Amathillopsis.sp1",30,"NC1_BK1_6200",6233,6233,1
+"Annelida",149,"NC1_BK1_6200, NC1_BK2_6700, NC2_BK1_3200, NC2_BK2_3800, NC3_BK2_6000, NC3_BK4_8000",3273,7985,6
+"Annelida.Polychaeta",160,"NC1_BK1_6200, NC1_BK2_6700, NC1_BK3_8000, NC2_BK1_3200, NC2_BK3_7400, NC2_BK4_5300, NC3_BK1_8000, NC3_BK2_6000, NC3_BK4_8000, NC4_BK1_5600, NC4_BK2_4700, NC4_BK3_6900, NC4_BK4_4700, NC4_BK6_4700",3273,8000,14
+"Annelida.Polychaeta.Echiuroidea",91,"NC1_BK2_6700, NC2_BK3_7400, NC3_BK1_8000, NC3_BK4_8000, NC4_BK1_5600, NC4_BK3_6900",5500,8000,6
+"Annelida.Polychaeta.Echiuroidea.sp1",35,"NC1_BK3_8000, NC3_BK4_8000",7985,7989,2
+"Annelida.Polychaeta.Echiuroidea.sp2",4,"NC3_BK4_8000",7985,7985,1
+"Antedonidae.sp1",3,"NC1_BK1_6200, NC2_BK4_5300",5272,6233,2
+"Aphrocallistidae",2,"NC3_BK2_6000",6014,6014,1
+"Aristeidae.Cerataspis.monstrosus",13,"NC2_BK1_3200, NC2_BK2_3800, NC3_BK2_6000, NC3_BK3_6000, NC4_BK2_4700, NC4_BK4_4700, NC4_BK6_4700",3273,6014,7
+"Arthropoda",7,"NC1_BK2_6700, NC3_BK4_8000",6682,7985,2
+"Arthropoda.Copepoda",5,"NC1_BK1_6200, NC1_BK2_6700, NC2_BK2_3800, NC4_BK6_4700",3791,6682,4
+"Arthropoda.Malacostraca.Amphipoda",1173,"NC1_BK1_6200, NC1_BK2_6700, NC1_BK3_8000, NC2_BK1_3200, NC2_BK2_3800, NC2_BK3_7400, NC3_BK1_8000, NC3_BK2_6000, NC3_BK3_6000, NC3_BK4_8000, NC4_BK2_4700, NC4_BK3_6900, NC4_BK4_4700, NC4_BK6_4700",3273,8000,14
+"Arthropoda.Malacostraca.Decapoda",8,"NC2_BK2_3800, NC2_BK4_5300, NC3_BK2_6000, NC4_BK2_4700, NC4_BK3_6900, NC4_BK4_4700",3791,6974,6
+"Arthropoda.Malacostraca.Decapoda.Galatheoidea.sp1",2,"NC4_BK4_4700",4675,4675,1
+"Arthropoda.Malacostraca.Decapoda.Nematocarcinidae?",1,"NC4_BK6_4700",4635,4635,1
+"Arthropoda.Malacostraca.Decapoda.Paguroidea",3,"NC2_BK2_3800",3791,3791,1
+"Arthropoda.Malacostraca.Isopoda.sp1",8,"NC2_BK3_7400, NC3_BK1_8000, NC3_BK4_8000",7369,8000,3
+"Arthropoda.Thecostraca",1,"NC2_BK1_3200",3273,3273,1
+"Aspidodiadematidae",1,"NC4_BK6_4700",4635,4635,1
+"Ateleopodidae.Atelopus",1,"NC4_BK2_4700",4734,4734,1
+"Bathycrinidae",8,"NC3_BK2_6000",6014,6014,1
+"Bathycrinidae.Bathycrinus",17,"NC1_BK1_6200, NC2_BK3_7400, NC3_BK4_8000, NC4_BK3_6900",6233,7985,4
+"Bathysauridae.Bathysaurus",1,"NC4_BK4_4700",4675,4675,1
+"Bathysauridae.Bathysaurus.mollis",2,"NC2_BK2_3800, NC4_BK6_4700",3791,4635,2
+"Benthesicymidae.Benthesicymus.crenatus",19,"NC1_BK1_6200, NC1_BK2_6700, NC2_BK3_7400, NC2_BK4_5300, NC2_BK5_4600, NC3_BK2_6000, NC3_BK4_8000, NC4_BK2_4700, NC4_BK3_6900",4630,7985,9
+"Brachiopoda.Rhynchonellata",38,"NC1_BK2_6700, NC3_BK2_6000",6014,6682,2
+"Brisingidae.sp2",3,"NC4_BK2_4700",4734,4734,1
+"Bryozoa",47,"NC2_BK1_3200, NC2_BK4_5300, NC2_BK5_4600",3273,5272,3
+"Candelabridae",1,"NC4_BK3_6900",6974,6974,1
+"Cercozoa.Gromiidea.Gromiida",11,"NC2_BK1_3200",3273,3273,1
+"Cerianthidae.sp1",4,"NC4_BK4_4700",4675,4675,1
+"Chaetognatha",10,"NC2_BK2_3800, NC2_BK4_5300, NC4_BK4_4700, NC4_BK6_4700",3791,5272,4
+"Chordata.Appendicularia.Copelata",2,"NC2_BK4_5300, NC4_BK3_6900",5272,6974,2
+"Chordata.Teleostei.Ophidiiformes",2,"NC4_BK6_4700",4635,4635,1
+"Chrysogorgiidae.Chrysogorgia.sp1",1,"NC4_BK6_4700",4635,4635,1
+"Cirroteuthidae.Cirroteuthis.muelleri",1,"NC3_BK2_6000",6014,6014,1
+"Cirroteuthidae.Cirroteuthis.sp1",1,"NC3_BK3_6000",5921,5921,1
+"Cladopathidae.Abyssopathes",13,"NC3_BK2_6000, NC4_BK2_4700",4734,6014,2
+"Cladopathidae.Heteropathes",2,"NC4_BK6_4700",4635,4635,1
+"Cladorhizidae",50,"NC1_BK2_6700, NC3_BK2_6000, NC3_BK3_6000, NC4_BK3_6900",5921,6974,4
+"Cladorhizidae.Asbestopluma",1,"NC2_BK5_4600",4630,4630,1
+"Cladorhizidae.Chondrocladia",2,"NC3_BK2_6000",6014,6014,1
+"Cladorhizidae.Chondrocladia.sp1",7,"NC2_BK4_5300, NC2_BK5_4600",4630,5272,2
+"Cladorhizidae.sp1",34,"NC2_BK3_7400",7369,7369,1
+"Cnidaria",2,"NC2_BK1_3200",3273,3273,1
+"Cnidaria.Anthozoa",1,"NC4_BK1_5600",5500,5500,1
+"Cnidaria.Anthozoa.Actiniaria",961,"NC1_BK1_6200, NC1_BK2_6700, NC2_BK3_7400, NC2_BK4_5300, NC3_BK1_8000, NC3_BK2_6000, NC3_BK4_8000, NC4_BK2_4700, NC4_BK3_6900, NC4_BK4_4700, NC4_BK6_4700",4635,8000,11
+"Cnidaria.Anthozoa.Actiniaria.Actinostoloidea",2,"NC2_BK4_5300",5272,5272,1
+"Cnidaria.Anthozoa.Actiniaria.Actinostoloidea.sp10",6,"NC3_BK2_6000",6014,6014,1
+"Cnidaria.Anthozoa.Actiniaria.sp1",3,"NC1_BK1_6200",6233,6233,1
+"Cnidaria.Anthozoa.Actiniaria.sp2",4,"NC2_BK5_4600, NC3_BK2_6000",4630,6014,2
+"Cnidaria.Anthozoa.Actiniaria.sp3",29,"NC1_BK2_6700, NC2_BK3_7400",6682,7369,2
+"Cnidaria.Anthozoa.Actiniaria.sp5",1,"NC2_BK1_3200",3273,3273,1
+"Cnidaria.Anthozoa.Actiniaria.sp6",1,"NC3_BK2_6000",6014,6014,1
+"Cnidaria.Anthozoa.Actiniaria.sp7",1,"NC3_BK2_6000",6014,6014,1
+"Cnidaria.Anthozoa.Actiniaria.sp9",3,"NC3_BK1_8000",8000,8000,1
+"Cnidaria.Anthozoa.Ceriantharia",151,"NC1_BK1_6200, NC2_BK1_3200, NC2_BK2_3800, NC3_BK1_8000, NC3_BK2_6000, NC3_BK4_8000",3273,8000,6
+"Cnidaria.Anthozoa.Malacalcyonacea",11,"NC2_BK1_3200",3273,3273,1
+"Cnidaria.Anthozoa.Octocorallia",32,"NC3_BK2_6000, NC4_BK2_4700, NC4_BK4_4700, NC4_BK6_4700",4635,6014,4
+"Cnidaria.Anthozoa.Scleralcyonacea",7,"NC1_BK2_6700, NC2_BK5_4600, NC4_BK4_4700",4630,6682,3
+"Cnidaria.Anthozoa.Scleralcyonacea.Octocorallia.sp2",7,"NC4_BK6_4700",4635,4635,1
+"Cnidaria.Anthozoa.Scleralcyonacea.Pennatuloidea",26,"NC2_BK1_3200",3273,3273,1
+"Cnidaria.Anthozoa.Scleralcyonacea.Pennatuloidea.sp5",1,"NC2_BK1_3200",3273,3273,1
+"Cnidaria.Anthozoa.Scleralcyonacea.sp2",17,"NC2_BK5_4600, NC4_BK2_4700",4630,4734,2
+"Cnidaria.Anthozoa.Scleralcyonacea.sp3",2,"NC4_BK2_4700, NC4_BK4_4700",4675,4734,2
+"Cnidaria.Anthozoa.Scleralcyonacea.sp5",1,"NC4_BK2_4700",4734,4734,1
+"Cnidaria.Hydrozoa",13,"NC1_BK1_6200, NC2_BK1_3200, NC2_BK2_3800, NC3_BK2_6000, NC4_BK1_5600, NC4_BK6_4700",3273,6233,6
+"Cnidaria.Hydrozoa.Narcomedusae",12,"NC1_BK2_6700, NC3_BK1_8000, NC3_BK4_8000, NC4_BK3_6900, NC4_BK4_4700",4675,8000,5
+"Cnidaria.Hydrozoa.Trachymedusae",2,"NC1_BK3_8000",7989,7989,1
+"Comatulidae",1,"NC2_BK4_5300",5272,5272,1
+"Corallimorphidae.sp1",3,"NC1_BK2_6700",6682,6682,1
+"Corymorphidae",22,"NC3_BK1_8000, NC4_BK3_6900",6974,8000,2
+"Ctenophora",5,"NC3_BK1_8000, NC3_BK4_8000",7985,8000,2
+"Ctenophora.Tentaculata.Cydippida",139,"NC1_BK2_6700, NC1_BK3_8000, NC3_BK2_6000, NC3_BK3_6000, NC3_BK4_8000, NC4_BK2_4700, NC4_BK3_6900",4734,7989,7
+"Ctenophora.Tentaculata.Cydippida.sp1",3,"NC1_BK2_6700, NC2_BK3_7400",6682,7369,2
+"Ctenophora.Tentaculata.Cydippida.sp2",21,"NC1_BK2_6700, NC2_BK3_7400",6682,7369,2
+"Ctenophora.Tentaculata.Cydippida.sp4",7,"NC1_BK1_6200, NC1_BK2_6700",6233,6682,2
+"Deimatidae.sp1",1,"NC4_BK4_4700",4675,4675,1
+"Echinodermata.Asteroidea",120,"NC1_BK2_6700, NC2_BK1_3200, NC2_BK2_3800, NC2_BK4_5300, NC3_BK2_6000, NC3_BK4_8000, NC4_BK2_4700, NC4_BK3_6900, NC4_BK4_4700",3273,7985,9
+"Echinodermata.Asteroidea.Brisingida",2,"NC3_BK2_6000",6014,6014,1
+"Echinodermata.Asteroidea.Brisingida.sp1",2,"NC4_BK2_4700",4734,4734,1
+"Echinodermata.Asteroidea.Brisingida.sp3",2,"NC3_BK2_6000",6014,6014,1
+"Echinodermata.Crinoidea",18,"NC1_BK1_6200, NC2_BK4_5300, NC3_BK1_8000, NC3_BK4_8000, NC4_BK1_5600, NC4_BK3_6900",5272,8000,6
+"Echinodermata.Crinoidea.Comatulida",3,"NC2_BK5_4600, NC3_BK2_6000",4630,6014,2
+"Echinodermata.Crinoidea.sp1",54,"NC1_BK1_6200, NC2_BK4_5300, NC2_BK5_4600, NC4_BK6_4700",4630,6233,4
+"Echinodermata.Crinoidea.sp2",18,"NC3_BK1_8000, NC3_BK4_8000",7985,8000,2
+"Echinodermata.Echinoidea",1,"NC4_BK6_4700",4635,4635,1
+"Echinodermata.Holothuroidea",26,"NC1_BK1_6200, NC1_BK2_6700, NC2_BK1_3200, NC2_BK2_3800, NC2_BK4_5300, NC3_BK1_8000, NC3_BK2_6000, NC3_BK3_6000, NC4_BK1_5600, NC4_BK2_4700, NC4_BK4_4700",3273,8000,11
+"Echinodermata.Holothuroidea.Persiculida",1,"NC2_BK4_5300",5272,5272,1
+"Echinodermata.Holothuroidea.Persiculida.Benthothuria",1,"NC4_BK2_4700",4734,4734,1
+"Echinodermata.Holothuroidea.Persiculida.Benthothuria.sp1",3,"NC2_BK5_4600, NC4_BK4_4700",4630,4675,2
+"Echinodermata.Holothuroidea.Persiculida.Hansenothuria",7,"NC1_BK2_6700, NC3_BK3_6000, NC4_BK2_4700, NC4_BK6_4700",4635,6682,4
+"Echinodermata.Holothuroidea.Persiculida.Hansenothuria.sp1",5,"NC3_BK2_6000",6014,6014,1
+"Echinodermata.Holothuroidea.Persiculida.Hansenothuria.sp2",21,"NC1_BK2_6700, NC2_BK4_5300, NC3_BK2_6000, NC4_BK3_6900",5272,6974,4
+"Echinodermata.Holothuroidea.Synallactida.Synallactidae.sp1",1,"NC2_BK5_4600",4630,4630,1
+"Echinodermata.Holothuroidea.Synallactida.Synallactidae.sp2",3,"NC2_BK5_4600",4630,4630,1
+"Echinodermata.Holothuroidea.Synallactida.Synallactidae.sp3",2,"NC2_BK5_4600",4630,4630,1
+"Echinodermata.Holothuroidea.sp1",27,"NC1_BK1_6200, NC2_BK3_7400, NC4_BK1_5600, NC4_BK3_6900",5500,7369,4
+"Echinodermata.Ophiuroidea",2957,"NC1_BK1_6200, NC1_BK2_6700, NC1_BK3_8000, NC2_BK1_3200, NC2_BK2_3800, NC2_BK3_7400, NC2_BK4_5300, NC2_BK5_4600, NC3_BK1_8000, NC3_BK2_6000, NC3_BK3_6000, NC3_BK4_8000, NC4_BK1_5600, NC4_BK3_6900, NC4_BK4_4700, NC4_BK6_4700",3273,8000,16
+"Echinodermata.Ophiuroidea.6 arms?",1,"NC3_BK2_6000",6014,6014,1
+"Echinodermata.Ophiuroidea.Ophioplinthaca",2,"NC2_BK1_3200",3273,3273,1
+"Echinodermata.Ophiuroidea.sp1",1,"NC2_BK5_4600",4630,4630,1
+"Echinodermata.Ophiuroidea.sp2",1,"NC2_BK5_4600",4630,4630,1
+"Echinodermata.Ophiuroidea.sp3",2,"NC2_BK5_4600",4630,4630,1
+"Echiuridae",1,"NC1_BK2_6700",6682,6682,1
+"Elpidiidae",301,"NC1_BK3_8000, NC2_BK3_7400, NC2_BK5_4600, NC3_BK1_8000, NC3_BK4_8000, NC4_BK1_5600, NC4_BK3_6900",4630,8000,7
+"Elpidiidae.Amperima",3,"NC2_BK5_4600, NC4_BK6_4700",4630,4635,2
+"Elpidiidae.Amperima.Peniagone?",1,"NC4_BK6_4700",4635,4635,1
+"Elpidiidae.Amperima.sp2",10,"NC3_BK1_8000, NC3_BK2_6000, NC3_BK3_6000, NC4_BK1_5600",5500,8000,4
+"Elpidiidae.Amperima.sp3",3,"NC3_BK2_6000, NC4_BK3_6900",6014,6974,2
+"Elpidiidae.Amperima.sp5",1,"NC3_BK2_6000",6014,6014,1
+"Elpidiidae.Amperima.sp6",30,"NC4_BK2_4700",4734,4734,1
+"Elpidiidae.Elpidia",4581,"NC1_BK2_6700, NC1_BK3_8000, NC2_BK3_7400, NC3_BK1_8000, NC3_BK4_8000, NC4_BK3_6900",6682,8000,6
+"Elpidiidae.Elpidia.sp1",4,"NC1_BK2_6700, NC3_BK2_6000",6014,6682,2
+"Elpidiidae.Elpidia.sp2",99,"NC1_BK2_6700, NC2_BK3_7400",6682,7369,2
+"Elpidiidae.Elpidia.sp3",751,"NC1_BK3_8000, NC2_BK3_7400, NC3_BK1_8000, NC3_BK4_8000",7369,8000,4
+"Elpidiidae.Elpidia.sp4",49,"NC1_BK2_6700, NC1_BK3_8000, NC3_BK1_8000",6682,8000,3
+"Elpidiidae.Peniagone",146,"NC3_BK2_6000, NC3_BK4_8000, NC4_BK1_5600, NC4_BK2_4700, NC4_BK3_6900, NC4_BK4_4700",4675,7985,6
+"Elpidiidae.Peniagone.leander",2,"NC4_BK1_5600, NC4_BK3_6900",5500,6974,2
+"Elpidiidae.Peniagone.sp1",962,"NC2_BK3_7400, NC3_BK1_8000, NC3_BK4_8000, NC4_BK1_5600, NC4_BK3_6900",5500,8000,5
+"Elpidiidae.Peniagone.sp2",3,"NC4_BK1_5600",5500,5500,1
+"Elpidiidae.sp1",1,"NC3_BK2_6000",6014,6014,1
+"Epizoanthidae.Epizoanthus.sp1",7,"NC2_BK1_3200, NC2_BK2_3800",3273,3791,2
+"Euplectellidae",5,"NC3_BK2_6000",6014,6014,1
+"Euplectellidae.Dictyocalyx.sp1",1,"NC1_BK2_6700",6682,6682,1
+"Euplectellidae.Docosaccus",1,"NC4_BK3_6900",6974,6974,1
+"Euplectellidae.Docosaccus.sp1",1,"NC3_BK2_6000",6014,6014,1
+"Euplectellidae.Holascus",2,"NC3_BK2_6000",6014,6014,1
+"Euplectellidae.Holascus.sp2",1,"NC3_BK2_6000",6014,6014,1
+"Euplectellidae.Hyalostylus",2,"NC3_BK3_6000",5921,5921,1
+"Euplectellidae.Hyalostylus.sp1",4,"NC3_BK2_6000, NC3_BK3_6000, NC4_BK4_4700",4675,6014,3
+"Euplectellidae.Hyalostylus.sp3",3,"NC3_BK2_6000, NC4_BK6_4700",4635,6014,2
+"Euplectellidae.Hyalostylus.sp5",1,"NC2_BK5_4600",4630,4630,1
+"Euplectellidae.sp1",2,"NC1_BK2_6700",6682,6682,1
+"Euplectellidae.sp2",2,"NC1_BK2_6700, NC3_BK3_6000",5921,6682,2
+"Euplectellidae.sp3",3,"NC3_BK3_6000",5921,5921,1
+"Euplectellidae.sp6",1,"NC4_BK2_4700",4734,4734,1
+"Euplectellidae.sp7",2,"NC3_BK2_6000, NC3_BK3_6000",5921,6014,2
+"Euplectellidae.sp8",1,"NC3_BK3_6000",5921,5921,1
+"Farreidae",1,"NC4_BK6_4700",4635,4635,1
+"Flabelligeridae",11,"NC3_BK2_6000, NC4_BK2_4700, NC4_BK3_6900, NC4_BK4_4700, NC4_BK6_4700",4635,6974,5
+"Freyellidae",8,"NC3_BK2_6000, NC4_BK4_4700, NC4_BK6_4700",4635,6014,3
+"Freyellidae.Sea spider?",2,"NC4_BK6_4700",4635,4635,1
+"Freyellidae.sp1",5,"NC3_BK2_6000",6014,6014,1
+"Freyellidae.sp2",7,"NC4_BK2_4700",4734,4734,1
+"Freyellidae.sp3",4,"NC4_BK4_4700",4675,4675,1
+"Fritillariidae",6,"NC4_BK1_5600",5500,5500,1
+"Funiculinidae.sp1",1,"NC2_BK2_3800",3791,3791,1
+"Galatheanthemidae.Galatheanthemum.sp1",24,"NC1_BK1_6200",6233,6233,1
+"Galatheanthemidae.Galatheanthemum.sp2",14,"NC3_BK4_8000",7985,7985,1
+"Goniasteridae",19,"NC2_BK2_3800, NC2_BK5_4600, NC3_BK2_6000, NC4_BK2_4700",3791,6014,4
+"Goniasteridae.sp2",2,"NC2_BK2_3800",3791,3791,1
+"Goniasteridae.sp3",7,"NC3_BK2_6000",6014,6014,1
+"Hesionidae",1007,"NC1_BK1_6200, NC1_BK2_6700, NC3_BK2_6000, NC4_BK3_6900",6014,6974,4
+"Histocidaridae.Histocidaris.sp1",72,"NC2_BK2_3800",3791,3791,1
+"Hyalonematidae.Hyalonema",9,"NC2_BK5_4600, NC4_BK1_5600, NC4_BK6_4700",4630,5500,3
+"Hyalonematidae.Hyalonema.sp1",9,"NC2_BK2_3800, NC4_BK6_4700",3791,4635,2
+"Hyalonematidae.Hyalonema.sp2",2,"NC2_BK4_5300",5272,5272,1
+"Hyalonematidae.Hyalonema.sp3",1,"NC4_BK6_4700",4635,4635,1
+"Hyalonematidae.Hyalonema.sp4",2,"NC2_BK5_4600",4630,4630,1
+"Hyalonematidae.Hyalonema.sp5",5,"NC3_BK2_6000, NC4_BK4_4700, NC4_BK6_4700",4635,6014,3
+"Hyocrinidae",170,"NC3_BK1_8000, NC3_BK2_6000, NC3_BK4_8000",6014,8000,3
+"Hyocrinidae.Hyocrinus",27,"NC1_BK1_6200, NC3_BK2_6000, NC4_BK2_4700, NC4_BK3_6900",4734,6974,4
+"Hyocrinidae.Hyocrinus.sp1",12,"NC1_BK1_6200, NC2_BK4_5300, NC2_BK5_4600, NC3_BK2_6000",4630,6233,4
+"Hyocrinidae.Hyocrinus.sp2",56,"NC1_BK1_6200",6233,6233,1
+"Hyocrinidae.Hyocrinus.sp3",1,"NC1_BK1_6200",6233,6233,1
+"Hyocrinidae.Hyocrinus.sp4",21,"NC1_BK1_6200, NC3_BK2_6000",6014,6233,2
+"Hyocrinidae.sp1",1,"NC2_BK4_5300",5272,5272,1
+"Hyocrinidae.sp2",2,"NC1_BK1_6200, NC3_BK1_8000",6233,8000,2
+"Hyocrinidae.sp4",2,"NC3_BK1_8000",8000,8000,1
+"Ipnopidae.Bathytyphlops.marionae",1,"NC2_BK2_3800",3791,3791,1
+"Ipnopidae.Ipnops",20,"NC4_BK2_4700, NC4_BK4_4700, NC4_BK6_4700",4635,4734,3
+"Ischnomesidae",47,"NC1_BK3_8000, NC3_BK4_8000",7985,7989,2
+"Ischnomesidae.sp1",15,"NC1_BK3_8000, NC3_BK1_8000, NC3_BK2_6000, NC3_BK3_6000, NC3_BK4_8000",5921,8000,5
+"Keratoisididae",1,"NC4_BK6_4700",4635,4635,1
+"Laetmogonidae",3,"NC3_BK2_6000, NC4_BK2_4700",4734,6014,2
+"Laetmogonidae.How do u tell apart from benthodytes Mel?",1,"NC4_BK2_4700",4734,4734,1
+"Laetmogonidae.Psychronaetes",1,"NC4_BK4_4700",4675,4675,1
+"Laetmogonidae.Psychronaetes.sp1",1,"NC4_BK4_4700",4675,4675,1
+"Laetmogonidae.sp2",9,"NC1_BK1_6200, NC3_BK2_6000",6014,6233,2
+"Laetmogonidae.sp3",1,"NC2_BK4_5300",5272,5272,1
+"Liparidae",2,"NC3_BK4_8000",7985,7985,1
+"Liparidae.Pseudoliparis",1,"NC2_BK3_7400",7369,7369,1
+"Liparidae.Pseudoliparis.sp1",6,"NC1_BK1_6200, NC1_BK2_6700, NC2_BK3_7400, NC4_BK3_6900",6233,7369,4
+"Liparidae.Pseudoliparis.sp2",1,"NC2_BK3_7400",7369,7369,1
+"Macrouridae.Coryphaenoides.yaquinae",5,"NC2_BK5_4600, NC4_BK2_4700",4630,4734,2
+"Mesothuriidae.Mesothuria.sp2",5,"NC2_BK1_3200, NC4_BK4_4700",3273,4675,2
+"Mesothuriidae.Mesothuria.sp3",10,"NC2_BK3_7400, NC3_BK2_6000, NC3_BK4_8000",6014,7985,3
+"Mesothuriidae.Mesothuria.sp4",22,"NC3_BK2_6000, NC4_BK4_4700",4675,6014,2
+"Mesothuriidae.Mesothuria.sp5",13,"NC1_BK1_6200, NC3_BK2_6000",6014,6233,2
+"Mesothuriidae.sp1",2,"NC2_BK4_5300",5272,5272,1
+"Mollusca.Gastropoda",27,"NC1_BK1_6200, NC1_BK2_6700, NC2_BK2_3800, NC2_BK4_5300, NC3_BK2_6000, NC3_BK4_8000",3791,7985,6
+"Munidopsidae.Munidopsis",10,"NC4_BK2_4700, NC4_BK6_4700",4635,4734,2
+"Munnopsidae",380,"NC1_BK1_6200, NC1_BK2_6700, NC1_BK3_8000, NC2_BK2_3800, NC2_BK3_7400, NC2_BK4_5300, NC2_BK5_4600, NC3_BK1_8000, NC3_BK2_6000, NC3_BK3_6000, NC3_BK4_8000, NC4_BK1_5600, NC4_BK2_4700, NC4_BK3_6900, NC4_BK4_4700",3791,8000,15
+"Munnopsidae.sp1",13,"NC2_BK3_7400, NC3_BK1_8000, NC3_BK2_6000, NC4_BK3_6900",6014,8000,4
+"Mysidae",961,"NC1_BK1_6200, NC1_BK2_6700, NC2_BK2_3800, NC2_BK3_7400, NC2_BK4_5300, NC2_BK5_4600, NC3_BK2_6000, NC3_BK3_6000, NC4_BK1_5600, NC4_BK2_4700, NC4_BK3_6900, NC4_BK4_4700, NC4_BK6_4700",3791,7369,13
+"Nematocarcinidae",15,"NC1_BK1_6200, NC2_BK2_3800, NC2_BK4_5300, NC3_BK2_6000, NC3_BK3_6000, NC4_BK4_4700, NC4_BK6_4700",3791,6233,7
+"Nemertea",4,"NC2_BK3_7400, NC3_BK1_8000, NC3_BK4_8000",7369,8000,3
+"Nemertea.sp1",13,"NC1_BK3_8000",7989,7989,1
+"Nemertea.sp2",1,"NC2_BK3_7400",7369,7369,1
+"Octacnemidae",24,"NC3_BK2_6000, NC3_BK3_6000, NC3_BK4_8000, NC4_BK1_5600, NC4_BK2_4700, NC4_BK3_6900, NC4_BK4_4700, NC4_BK6_4700",4635,7985,8
+"Octacnemidae.Megalodicopia",12,"NC2_BK4_5300, NC3_BK2_6000, NC3_BK4_8000, NC4_BK3_6900, NC4_BK4_4700, NC4_BK6_4700",4635,7985,6
+"Octacnemidae.Megalodicopia.too far, probs delete",2,"NC2_BK4_5300",5272,5272,1
+"Oikopleuridae",2,"NC3_BK2_6000, NC4_BK1_5600",5500,6014,2
+"Ophiacanthidae.Ophioplinthaca",4,"NC2_BK1_3200",3273,3273,1
+"Ophiacanthidae.Ophioplinthaca.sp1",60,"NC2_BK1_3200",3273,3273,1
+"Ophiacanthidae.sp1",2,"NC2_BK1_3200",3273,3273,1
+"Ophidiidae",3,"NC4_BK4_4700, NC4_BK6_4700",4635,4675,2
+"Ophidiidae.Bassozetus",2,"NC3_BK2_6000, NC4_BK2_4700",4734,6014,2
+"Ophidiidae.Bassozetus.Face quite dark, could be leucicorus.sp6",1,"NC4_BK6_4700",4635,4635,1
+"Ophidiidae.Bassozetus.sp6",8,"NC4_BK2_4700, NC4_BK4_4700, NC4_BK6_4700",4635,4734,3
+"Ophidiidae.Bassozetus.sp7",2,"NC4_BK2_4700",4734,4734,1
+"Ophidiidae.Leucicorus",24,"NC3_BK2_6000, NC3_BK3_6000, NC4_BK2_4700, NC4_BK4_4700, NC4_BK6_4700",4635,6014,5
+"Ophidiidae.Porogadus",3,"NC3_BK3_6000, NC4_BK4_4700",4675,5921,2
+"Ophioleucidae.sp1",2,"NC2_BK1_3200, NC2_BK2_3800",3273,3791,2
+"Ophiuridae.sp1",12,"NC2_BK1_3200",3273,3273,1
+"Parapaguridae",2,"NC4_BK6_4700",4635,4635,1
+"Pardaliscidae.Princaxelia",1,"NC3_BK4_8000",7985,7985,1
+"Pelagothuriidae.Enypniastes.eximia",1,"NC4_BK4_4700",4675,4675,1
+"Pheronematidae.sp1",2,"NC2_BK2_3800",3791,3791,1
+"Polynoidae",163,"NC1_BK2_6700, NC2_BK3_7400, NC4_BK3_6900",6682,7369,3
+"Polynoidae.Macellicephalinae.sp1",12,"NC1_BK3_8000",7989,7989,1
+"Porcellanasteridae",8,"NC4_BK2_4700, NC4_BK3_6900, NC4_BK4_4700",4675,6974,3
+"Porcellanasteridae.Porcellanaster.sp1",1,"NC3_BK2_6000",6014,6014,1
+"Porcellanasteridae.Pseudarchasteridae?",1,"NC1_BK2_6700",6682,6682,1
+"Porifera.Hexactinellida",17,"NC2_BK4_5300, NC3_BK2_6000, NC3_BK3_6000",5272,6014,3
+"Porifera.Hexactinellida.Lyssacinosida",4,"NC3_BK2_6000, NC3_BK3_6000",5921,6014,2
+"Porifera.Hexactinellida.Lyssacinosida.sp2",1,"NC2_BK4_5300",5272,5272,1
+"Porifera.Hexactinellida.sp6",1,"NC4_BK4_4700",4675,4675,1
+"Protoptilidae.Protoptilum.sp1",4,"NC2_BK1_3200, NC2_BK2_3800",3273,3791,2
+"Pseudarchasteridae.sp1",1,"NC2_BK5_4600",4630,4630,1
+"Pseudarchasteridae.sp2",4,"NC2_BK1_3200",3273,3273,1
+"Psychropotidae.Benthodytes",1,"NC4_BK2_4700",4734,4734,1
+"Psychropotidae.Benthodytes.sp1",4,"NC2_BK5_4600, NC4_BK4_4700",4630,4675,2
+"Psychropotidae.Benthodytes.sp2",4,"NC2_BK5_4600, NC4_BK2_4700",4630,4734,2
+"Pterasteridae",6,"NC3_BK1_8000",8000,8000,1
+"Pterasteridae.Hymenaster",177,"NC1_BK3_8000, NC2_BK4_5300, NC3_BK1_8000, NC3_BK2_6000, NC3_BK4_8000, NC4_BK1_5600, NC4_BK3_6900",5272,8000,7
+"Pterasteridae.Hymenaster.sp1",9,"NC1_BK3_8000, NC2_BK4_5300, NC4_BK4_4700",4675,7989,3
+"Pterasteridae.Hymenaster.sp2",4,"NC1_BK1_6200",6233,6233,1
+"Pterasteridae.Hymenaster.sp3",1,"NC3_BK1_8000",8000,8000,1
+"Radiozoa.Tuscaridium",4,"NC1_BK1_6200, NC2_BK1_3200, NC2_BK2_3800",3273,6233,3
+"Relicanthidae.Relicanthus.daphneae",1,"NC2_BK1_3200",3273,3273,1
+"Relicanthidae.Relicanthus.sp1",7,"NC4_BK2_4700, NC4_BK6_4700",4635,4734,2
+"Rhopalonematidae",3,"NC1_BK1_6200",6233,6233,1
+"Rhopalonematidae.sp1",2,"NC1_BK1_6200, NC3_BK2_6000",6014,6233,2
+"Rhopalonematidae.sp2",2,"NC1_BK1_6200",6233,6233,1
+"Rossellidae.Caulophacus",1,"NC3_BK2_6000",6014,6014,1
+"Rossellidae.Caulophacus.sp1",3,"NC2_BK3_7400, NC3_BK2_6000",6014,7369,2
+"Rossellidae.Caulophacus.sp2",1,"NC4_BK6_4700",4635,4635,1
+"Rossellidae.Sympagella",7,"NC3_BK2_6000, NC3_BK3_6000, NC4_BK4_4700",4675,6014,3
+"Rossellidae.Sympagella.sp1",1,"NC2_BK5_4600",4630,4630,1
+"Sabellidae",208,"NC1_BK2_6700, NC2_BK2_3800, NC2_BK4_5300, NC2_BK5_4600, NC3_BK3_6000, NC3_BK4_8000, NC4_BK2_4700",3791,7985,7
+"Scalpellidae.Alcockianum sp.sp1",5,"NC2_BK2_3800",3791,3791,1
+"Schizopathidae",6,"NC2_BK4_5300, NC2_BK5_4600, NC4_BK6_4700",4630,5272,3
+"Schizopathidae.sp1",1,"NC2_BK5_4600",4630,4630,1
+"Schizopathidae.sp2",4,"NC4_BK2_4700",4734,4734,1
+"Schizopathidae.sp3",5,"NC2_BK5_4600, NC4_BK2_4700",4630,4734,2
+"Solasteridae.Lophaster.sp1",2,"NC2_BK1_3200",3273,3273,1
+"Solasteridae.sp1",1,"NC4_BK4_4700",4675,4675,1
+"Stephanoberycidae.Abyssoberyx",1,"NC4_BK6_4700",4635,4635,1
+"Synallactidae",16,"NC1_BK2_6700, NC3_BK2_6000, NC4_BK2_4700, NC4_BK4_4700, NC4_BK6_4700",4635,6682,5
+"Synallactidae.On down facing cam",1,"NC3_BK2_6000",6014,6014,1
+"Synallactidae.Paelopatides.sp1",1,"NC3_BK2_6000",6014,6014,1
+"Synallactidae.sp1",3,"NC4_BK4_4700",4675,4675,1
+"Synallactidae.sp2",1,"NC2_BK4_5300",5272,5272,1
+"Synallactidae.sp3",7,"NC3_BK2_6000",6014,6014,1
+"Synallactidae.sp4",1,"NC3_BK2_6000",6014,6014,1
+"Synaphobranchidae",1,"NC2_BK1_3200",3273,3273,1
+"Torquaratoridae",5,"NC1_BK2_6700, NC2_BK3_7400, NC4_BK2_4700",4734,7369,3
+"Torquaratoridae.sp2",2,"NC2_BK1_3200, NC2_BK3_7400",3273,7369,2
+"Torquaratoridae.sp3",2,"NC1_BK2_6700",6682,6682,1
+"Tuscaroridae",7,"NC1_BK2_6700, NC1_BK3_8000, NC2_BK3_7400, NC3_BK4_8000, NC4_BK3_6900",6682,7989,5
+"Ulmaridae",260,"NC1_BK1_6200, NC1_BK2_6700, NC1_BK3_8000, NC2_BK1_3200, NC2_BK2_3800, NC2_BK3_7400, NC3_BK3_6000, NC3_BK4_8000, NC4_BK3_6900",3273,7989,9
+"Ulmaridae.sp1",203,"NC1_BK3_8000, NC2_BK3_7400, NC3_BK1_8000, NC3_BK2_6000, NC3_BK4_8000, NC4_BK3_6900",6014,8000,6
+"Ulmaridae.sp3",1,"NC2_BK1_3200",3273,3273,1
+"Ulmaridae.sp4",1,"NC4_BK6_4700",4635,4635,1
+"Umbellulidae.Umbellula",29,"NC2_BK1_3200",3273,3273,1
+"Umbellulidae.Umbellula.Alfie check",1,"NC4_BK3_6900",6974,6974,1
+"Umbellulidae.Umbellula.sp1",43,"NC2_BK1_3200, NC2_BK2_3800",3273,3791,2
+"Umbellulidae.Umbellula.sp2",1,"NC4_BK3_6900",6974,6974,1
+"Umbellulidae.sp1",1,"NC4_BK4_4700",4675,4675,1
+"Virgulariidae.Virgularia.sp1",369,"NC2_BK1_3200",3273,3273,1
