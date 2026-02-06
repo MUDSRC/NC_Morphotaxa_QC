@@ -59,7 +59,17 @@ depth_summary <- depcounts_env %>%
     .groups = "drop"
   )
 
-
+# Check unique IDs and in which OpCode they arew
+depcounts_summary <- depcounts_env %>%
+  select(-Period) %>%
+  group_by(ID, OpCode) %>%
+  summarise(Total_MaxN = sum(Count), .groups = "drop") %>%
+  group_by(ID) %>%
+  summarise(
+    Total_Count = sum(Total_Count),
+    OpCodes_List = paste(unique(OpCode), collapse = ", "),
+    .groups = "drop"
+  )
 
 
 # Combine with depth ranges

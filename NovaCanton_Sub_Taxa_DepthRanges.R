@@ -49,7 +49,7 @@ metadata_sub <- read_excel("MASTER_Lander&Sub_Logsheet.xlsx",sheet=cruise)%>%
 depcounts_env_sub<- depcounts_sub %>%
   left_join(metadata_sub, by = c("OpCode"))
 
-
+# Create min/max depth summary per ID
 depth_summary_sub <- depcounts_env_sub %>%
   group_by(ID) %>%
   summarise(
@@ -59,29 +59,27 @@ depth_summary_sub <- depcounts_env_sub %>%
     .groups = "drop"
   )
 
+# Check unique IDs and in which OpCode they arew
+depcounts_summary_sub <- depcounts_env_sub %>%
+  #select(-Period) %>%
+  group_by(ID, OpCode) %>%  summarise(Total_Count = sum(Count), .groups = "drop") %>%
+group_by(ID) %>%
+  summarise(
+    Total_Count = sum(Total_Count),
+    OpCodes_List = paste(unique(OpCode), collapse = ", "),
+    .groups = "drop"
+  )
 
 # Combine with depth ranges
-op_summary_sub <- depcounts_env_sub  %>%
+op_summary_sub <- depcounts_summary_sub  %>%
   left_join(depth_summary_sub, by = "ID")
 
 
 
 ####
 setwd(export.dir)
-write.csv(op_summary,"LanderTaxa_Depth_QC_20260129.csv",row.names = FALSE)
+write.csv(op_summary_sub,"SubTaxa_Depth_QC_20260204.csv",row.names = FALSE)
 
-
-###
-# ------------------------------
-# Calculate total count per dive
-# ------------------------------
-
-divecounts_summary <- depcounts_sub %>%
-  select(-Period) %>%
-  group_by(OpCode, ID) %>%
-  summarise(Total_Count = sum(Count), .groups = "drop")
-
-sort(unique(divecounts_summary$ID)) #list all individual IDs
 
 
 # ------------------------------
@@ -104,4 +102,21 @@ depcounts_wide<- depcounts_sub%>%
 rownames(depcounts_wide) <- depcounts_wide$OpCode
 depcounts_wide$OpCode <- NULL
 
+####
+setwd(export.dir)
 write.csv(depcounts_wide,"NC_Sub_taxa_wide_20260204.csv")
+
+
+###
+# ------------------------------
+# Calculate total count per dive
+# ------------------------------
+
+divecounts_summary <- depcounts_sub %>%
+  select(-Period) %>%
+  group_by(OpCode, ID) %>%
+  summarise(Total_Count = sum(Count), .groups = "drop")
+
+sort(unique(divecounts_summary$ID)) #list all individual IDs
+
+
